@@ -70,3 +70,6 @@ console.log(parsedObject);
 
 */
 ```
+
+### TODO
+- method to replace the existing filter with same name
